@@ -348,7 +348,7 @@ header nav ul li {
 }
 header nav ul a:link, header nav ul a:visited {
     color: #c5c4c4;
-    margin-right: 10px;
+    margin-right: 5px;
     text-shadow: 0 -1px 0 rgba(10, 10, 10, 1);
 }
 header nav ul a:hover,
