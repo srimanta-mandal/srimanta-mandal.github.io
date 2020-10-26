@@ -302,7 +302,7 @@ header {
 footer {
     position: relative;
     background: url(../images/section-sep.png) repeat-x left 25px;
-    width: 940px;
+    width: 999px;
     margin: 0 auto;
     padding-top: 125px;
 }
