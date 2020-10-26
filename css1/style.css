@@ -316,7 +316,7 @@ header hgroup {
     position: absolute;
     background: none;
     height: 31px;
-    width: 150px;
+    width: 65px;
     display: block;
     top: 25px;
     left: 0;
@@ -325,7 +325,7 @@ header hgroup h1 a {
     text-indent: -9999em;
     display: block;
     height: 31px;
-    width: 130px;
+    width: 65px;
 }
 header hgroup h3  {
     text-indent: -9999em;
