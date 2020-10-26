@@ -343,15 +343,15 @@ header nav ul {
     padding: 0;
     list-style: none;
 }
-/* header nav ul li {
+header nav ul li {
     float: left;
 }
-header nav ul a:link, header nav ul a:visited {
+/* header nav ul a:link, header nav ul a:visited {
     color: #c5c4c4;
     margin-right: 20px;
     text-shadow: 0 -1px 0 rgba(10, 10, 10, 1);
-}
-header nav ul a:hover,
+} */
+/* header nav ul a:hover,
 header nav ul a:active {
     color: #17a231
 } */
