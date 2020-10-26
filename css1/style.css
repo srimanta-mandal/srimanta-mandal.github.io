@@ -337,7 +337,7 @@ header nav {
     float: right;
     margin-top: 25px;
 }
-header nav ul {
+/* header nav ul {
     font: bold 12px/25px  Helvetica, Arial, Sans-serif;
     margin-right: -5px;
     padding: 0;
@@ -355,7 +355,7 @@ header nav ul a:hover,
 header nav ul a:active {
     color: #17a231
 }
-
+ */
 /* -----------------------------------------
     Main Section
 ------------------------------------------ */
