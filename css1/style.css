@@ -351,10 +351,10 @@ header nav ul li {
     margin-right: 20px;
     text-shadow: 0 -1px 0 rgba(10, 10, 10, 1);
 } */
-/* header nav ul a:hover,
+header nav ul a:hover,
 header nav ul a:active {
     color: #17a231
-} */
+}
 
 /* -----------------------------------------
     Main Section
